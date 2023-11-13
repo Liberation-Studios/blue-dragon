@@ -1,7 +1,7 @@
-package main
+package tileEngine
 
 import "fmt"
 
-func main() {
+func Demo() {
 	fmt.Println("Hello, world.")
 }
