@@ -8,3 +8,10 @@ func BigTileArrayInput() {
 
 	fmt.Println(tileChunk)
 }
+
+func TranslateCoordinates() {
+	var x = 4
+	var y = 2
+	var tileChunkSize = 4
+
+}
